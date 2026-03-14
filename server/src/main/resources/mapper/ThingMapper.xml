@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gk.study.mapper.ThingMapper">
+
+
+    <select id="getList" resultType="com.gk.study.entity.Thing">
+        select * from love_thing;
+    </select>
+<!-- ******** mhy优化： 筛选处最热top1-3男or女，轮播图准备（根据点赞量最高wish_count)-->
+    <select id="getTop3HotMaleThings" resultType="com.gk.study.entity.Thing">
+        SELECT * FROM love_thing WHERE sex = '男' ORDER BY wish_count DESC LIMIT 3
+    </select>
+    <select id="getTop3HotFemaleThings" resultType="com.gk.study.entity.Thing">
+        SELECT * FROM love_thing WHERE sex = '女' ORDER BY wish_count DESC LIMIT 3
+    </select>
+</mapper>

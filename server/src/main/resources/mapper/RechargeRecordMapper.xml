@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gk.study.mapper.RechargeRecordMapper">
+    <!-- // ******** mhy优化：所有添加了，回复的评论ID的查询,A.reply_to_id  -->
+    <select id="getList" resultType="com.gk.study.entity.RechargeRecord">
+        select A.*, B.username, C.title
+        from love_recharge_record as A
+        join love_user as B on (A.user_id=B.id)
+        join love_thing as C on (A.thing_id=C.id)
+        order by A.create_time desc;
+    </select>
+
+
+
+</mapper>
