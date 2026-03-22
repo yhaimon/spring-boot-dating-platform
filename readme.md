@@ -22,105 +22,105 @@
 >
 >  ![用户注册](./images/lover-user/婚恋平台-注册页面.png)
 >
->  ![用户登录](.\images\lover-user\婚恋平台-登录-用户页面.png)
+>  ![用户登录](./images/lover-user/婚恋平台-登录-用户页面.png)
 >
 > * **相亲浏览**：首页展示会员列表，用户可以根据最新或最热的标准筛选感兴趣的对象。
 >
->  ![首页](.\images\lover-user\婚恋平台-首页页面.png)
+>  ![首页](./images/lover-user/婚恋平台-首页页面.png)
 >
 > * **热门推荐**：采用协同过滤算法为用户提供个性化推荐，展示最受欢迎的会员。
 >
->  ![热门推荐](.\images\lover-user\婚恋平台-推荐页面.png)
+>  ![热门推荐](./images/lover-user/婚恋平台-推荐页面.png)
 >
 > * **个人中心**：用户可以在此更新个人信息、修改密码、管理收藏夹和点赞记录。
 >
->  ![个人中心](.\images\lover-user\婚恋平台-个人中心页面.png)
+>  ![个人中心](./images/lover-user/婚恋平台-个人中心页面.png)
 >
 > * **约会管理**：用户可以查看自己的约会安排，接收约会邀请，并管理约会状态。
 >
 >   包含申请约会，发布约会请求：
 >
->   ![相亲详情](.\images\lover-user\婚恋平台-相亲详情页面.png)
+>   ![相亲详情](./images/lover-user/婚恋平台-相亲详情页面.png)
 >
-> ![约会申请](.\images\lover-user\婚恋平台-发起约会页面.png)
-> ![约会管理](.\images\lover-user\婚恋平台-管理约会页面.png)
+> ![约会申请](./images/lover-user/婚恋平台-发起约会页面.png)
+> ![约会管理](./images/lover-user/婚恋平台-管理约会页面.png)
 >
 > * **意见提交**：用户界面包含意见反馈入口，方便用户随时提交建议或问题。
->   ![意见反馈](.\images\lover-user\婚恋平台-意见反馈页面.png)
+>   ![意见反馈](./images/lover-user/婚恋平台-意见反馈页面.png)
 >
 > * **模糊搜索**：顶部搜索栏支持模糊查询会员信息，提升查找效率。
->   ![模糊查询](.\images\lover-user\婚恋平台-模糊查询页面.png)
+>   ![模糊查询](./images/lover-user/婚恋平台-模糊查询页面.png)
 >
 > * **会员评论**：在会员详情页下方，用户可以发表评论，分享看法或互动交流。
->   ![会员评论](.\images\lover-user\婚恋平台-会员评论页面.png)
+>   ![会员评论](./images/lover-user/婚恋平台-会员评论页面.png)
 >   包含回复功能：
->   ![会员回复](.\images\lover-user\婚恋平台-会员回复.png)
+>   ![会员回复](./images/lover-user/婚恋平台-会员回复.png)
 >
 > * **动态发布**：用户可以上传图片和文字动态，还能对已发布的动态进行修改、删除或点赞操作。
->![动态管理](.\images\lover-user\婚恋平台-动态管理-发布页面.png)
+>![动态管理](./images/lover-user/婚恋平台-动态管理-发布页面.png)
 >   包含动态浏览点赞，删除修改。
->   ![动态编辑](.\images\lover-user\婚恋平台-动态编辑页面.png)
->   ![动态保存](.\images\lover-user\婚恋平台-动态删除页面.png)
+>   ![动态编辑](./images/lover-user/婚恋平台-动态编辑页面.png)
+>   ![动态保存](./images/lover-user/婚恋平台-动态删除页面.png)
 >
 > * **在线聊天**：提供实时聊天功能，促进用户之间的即时通讯和互动。
->   ![在线聊天-接收消息](.\images\lover-user\婚恋平台-在线聊天-接收消息页面.png)
->   ![在线聊天-发送消息](.\images\lover-user\婚恋平台-在线聊天-发送消息页面.png)
+>   ![在线聊天-接收消息](./images/lover-user/婚恋平台-在线聊天-接收消息页面.png)
+>   ![在线聊天-发送消息](./images/lover-user/婚恋平台-在线聊天-发送消息页面.png)
 >
 > * **充值管理**：用户可通过充值成为会员，并根据需要续费以维持会员特权。
->   ![会员充值](.\images\lover-user\婚恋平台-会员管理-充值页面.png)
+>   ![会员充值](./images/lover-user/婚恋平台-会员管理-充值页面.png)
 >
 > * 
->   ![会员充值记录](.\images\lover-user\婚恋平台-会员管理-充值记录页面.png)
+>   ![会员充值记录](./images/lover-user/婚恋平台-会员管理-充值记录页面.png)
 >
 > * 会员相亲信息发布
->   ![会员发布相亲](.\images\lover-user\婚恋平台-会员管理-相亲发布页面.png)
+>   ![会员发布相亲](./images/lover-user/婚恋平台-会员管理-相亲发布页面.png)
 >
 > * **广告浏览**：系统支持在详情页面右侧浏览广告，管理员可灵活控制广告内容和展示时间。
->   ![广告浏览](.\images\lover-user\婚恋平台-广告浏览页面.png)
+>   ![广告浏览](./images/lover-user/婚恋平台-广告浏览页面.png)
 >
 > * 管理员
->  ![管理员登录](.\images\lover-admin\婚恋平台-登录-管理员页面.png)
+>  ![管理员登录](./images/lover-admin/婚恋平台-登录-管理员页面.png)
 >  
 > * **会员管理**：系统支持录入、修改及查询会员的基本信息（如姓名、性别、年龄等），并附带备注功能以记录额外信息。
-> ![会员管理](.\images\lover-admin\婚恋平台-会员管理页面.png)
+> ![会员管理](./images/lover-admin/婚恋平台-会员管理页面.png)
 >
-> ![会员管理-编辑](.\images\lover-admin\婚恋平台-会员管理-编辑页面.png)
+> ![会员管理-编辑](./images/lover-admin/婚恋平台-会员管理-编辑页面.png)
 >
 > * **会员分类**：管理员可以定义和管理不同类型的会员，每种类型有独特的名称和其他属性。
 >
-> ![会员分类](.\images\lover-admin\婚恋平台-会员分类页面.png)
+> ![会员分类](./images/lover-admin/婚恋平台-会员分类页面.png)
 >
 > * **评论管理**：提供工具用于浏览和管理网站上的所有评论，确保内容健康且符合规定。
 >
->  ![评论管理](.\images\lover-admin\婚恋平台-会员评论管理页面.png)
+>  ![评论管理](./images/lover-admin/婚恋平台-会员评论管理页面.png)
 >
 > * **约会管理：**管理用户的约会情况。
 >
-> ![约会管理](.\images\lover-admin\婚恋平台-会员约会管理页面.png)
+> ![约会管理](./images/lover-admin/婚恋平台-会员约会管理页面.png)
 >
 > * **动态管理：**管理用户的动态，对不合格动态进行管控。
->* ![动态管理](.\images\lover-admin\婚恋平台-动态管理页面.png)
+>* ![动态管理](./images/lover-admin/婚恋平台-动态管理页面.png)
 > * **用户管理**：允许管理员新增、编辑或删除用户资料，便于维护用户数据库的准确性和完整性。
 >
->  ![用户管理](.\images\lover-admin\婚恋平台-用户管理页面.png)
+>  ![用户管理](./images/lover-admin/婚恋平台-用户管理页面.png)
 >
 >    
 >
 > * **统计分析**：基于会员活动数据和用户参与情况生成统计报告，帮助管理员全面了解系统运行状态。
 >
->  ![统计分析](.\images\lover-admin\婚恋平台-统计分析页面.png)
+>  ![统计分析](./images/lover-admin/婚恋平台-统计分析页面.png)
 >
 > * **广告发布**：管理员可在系统中发布公告，确保所有用户都能及时接收到重要通知。
 >
->  ![广告管理](.\images\lover-admin\婚恋平台-广告发布页面.png)
+>  ![广告管理](./images/lover-admin/婚恋平台-广告发布页面.png)
 >
 > * **意见反馈**：提供一个专门模块供用户提交反馈意见，管理员可以通过后台查看并处理这些意见。
 >
->  ![接收意见反馈](.\images\lover-admin\婚恋平台-意见反馈管理页面.png)
+>  ![接收意见反馈](./images/lover-admin/婚恋平台-意见反馈管理页面.png)
 >
 > * **系统信息**：管理员能够查看系统的详细信息，包括服务器配置、内存使用情况、CPU性能等关键指标。
 >
-> ![系统配置](.\images\lover-admin\婚恋平台-系统配置页面.png)
+> ![系统配置](./images/lover-admin/婚恋平台-系统配置页面.png)
 >
 > 
 >
@@ -196,17 +196,14 @@
 >
 >     1. 在前端页面中，打开终端cd到这个目录下cd src/services
 >         PS D:\ProgramData\IdeaProjects\java_lover\web>cd src/services
->                                                                                                     2. 运行node服务器node server.js
->
->         PS D:\ProgramData\IdeaProjects\java_lover\web\src\services> node server.js
->
-> 
+>                                                                               >     2. 运行node服务器node server.js
+>                 PS D:\ProgramData\IdeaProjects\java_lover\web\src\services> node server.js
 >
 > (3) 再打开一个新的终端，运行项目 npm run dev
 >
 >  PS D:\ProgramData\IdeaProjects\java_lover\web>npm run dev
 >
-> 
+>
 >
 > 然后访问前端地址。即可
 >
